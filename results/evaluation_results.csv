@@ -1,0 +1,61 @@
+Question,Detected Answer,Correct Answer,Remark,Confidence
+1,1??,1318,Unable to read,66.91
+2,1,1779,Wrong,99.78
+3,?5,2189,Unable to read,62.17
+4,5,812,Wrong,96.19
+5,32,1922,Wrong,90.06
+6,7,2073,Wrong,90.41
+7,?31,637,Unable to read,81.57
+8,1?13,1813,Unable to read,85.19
+9,?,2188,Unable to read,45.27
+10,?,1525,Unable to read,57.99
+11,,2460,Unable to read,0.0
+12,3,1419,Wrong,86.38
+13,,1186,Unable to read,0.0
+14,,1555,Unable to read,0.0
+15,,2604,Unable to read,0.0
+16,,1034,Unable to read,0.0
+17,,1489,Unable to read,0.0
+18,,2968,Unable to read,0.0
+19,,1431,Unable to read,0.0
+20,,1163,Unable to read,0.0
+21,1?,1201,Unable to read,76.8
+22,,2273,Unable to read,0.0
+23,1,672,Wrong,97.77
+24,,1655,Unable to read,0.0
+25,19,1869,Wrong,91.81
+26,?4,966,Unable to read,66.63
+27,2,1512,Wrong,91.26
+28,?5,1764,Unable to read,63.27
+29,,1024,Unable to read,0.0
+30,,905,Unable to read,0.0
+31,,1982,Unable to read,0.0
+32,4?,1039,Unable to read,84.35
+33,?,1968,Unable to read,59.66
+34,,1956,Unable to read,0.0
+35,?,1331,Unable to read,55.85
+36,,1456,Unable to read,0.0
+37,,942,Unable to read,0.0
+38,,685,Unable to read,0.0
+39,1,1086,Wrong,81.94
+40,,1947,Unable to read,0.0
+41,?4,1328,Unable to read,75.02
+42,53,869,Wrong,91.57
+43,2,2502,Wrong,91.89
+44,7?,2463,Unable to read,64.56
+45,?52,752,Unable to read,70.58
+46,,2995,Unable to read,0.0
+47,?,3016,Unable to read,49.52
+48,,1414,Unable to read,0.0
+49,?57,2578,Unable to read,66.41
+50,?44,2175,Unable to read,66.28
+51,37,1437,Wrong,87.29
+52,,1621,Unable to read,0.0
+53,1,1126,Wrong,95.94
+54,,2064,Unable to read,0.0
+55,,1919,Unable to read,0.0
+56,,1897,Unable to read,0.0
+57,7,2093,Wrong,73.16
+58,5,1796,Wrong,99.54
+59,,2415,Unable to read,0.0
+60,,1259,Unable to read,0.0
